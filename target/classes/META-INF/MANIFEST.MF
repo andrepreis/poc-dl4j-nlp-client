@@ -1,5 +1,9 @@
 Manifest-Version: 1.0
+Implementation-Title: poc-dl4j-nlp-client
+Implementation-Version: 1.0.0
 Built-By: 645547
+Implementation-Vendor-Id: br.com.andrepreis.pocdl4jnlpclient
 Build-Jdk: 1.8.0_171
+Implementation-URL: http://maven.apache.org
 Created-By: Maven Integration for Eclipse
 
