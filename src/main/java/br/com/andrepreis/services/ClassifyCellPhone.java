@@ -22,7 +22,7 @@ public class ClassifyCellPhone {
 	Logger logger = LoggerFactory.getLogger(ClassifyCellPhone.class);
 	 
 	 public ClassifyCellPhone () throws Exception{
-     Timer  timer = new Timer();	
+     Timer  timer = new Timer();	 
 		 
 		 try{
 			
